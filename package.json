@@ -1,0 +1,8 @@
+{
+  "name": "multiplayer-sync-assignment",
+  "private": true,
+  "scripts": {
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client"
+  }
+}
