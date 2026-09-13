@@ -1,4 +1,4 @@
-<img width="1710" height="622" alt="Cursor_2" src="https://github.com/user-attachments/assets/730e41d9-e8ee-4b38-a5e8-09eed75d1ffa" />## Screenshots
+## Screenshots
 
 Client:
 
